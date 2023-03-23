@@ -7,7 +7,7 @@
 
 body {
   background-color: #f0f0f0;
-  font-family: roboto;
+  font-family: 'roboto', sans-serif;
   box-sizing: border-box;
 }
 
@@ -25,7 +25,7 @@ body {
 }
 
 .image-section {
-  background-image: url(../images/avatar_hat.jpg);
+  background-image: url("../images/avatar_hat.jpg");
   width: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -56,7 +56,7 @@ body {
 
 .progress-bar {
   width: 100%;
-  background-color:  #f0f0f0;
+  background-color:#f0f0f0;
   height: 20px;
   margin-bottom: 15px;
   border-radius: 10px;
@@ -128,12 +128,12 @@ body {
 .fa-earth {
   margin-top: 15px;
 }
-/* main section */
+
 .main-section {
   padding: 16px;
   margin-left: 16px;
   background-color: #fff;
-  box-shadow: 0 4px 10px 0 #0003,0 4px 20px 0 #0003;
+  box-shadow: 0 4px 10px 0 #0003, 0 4px 20px 0 #0003;
   color: #797575;
   overflow: hidden;
 
@@ -141,7 +141,6 @@ body {
 
 .section-container {
   width: 100%;
-
 }
 
 .main-section h2 {
@@ -153,7 +152,7 @@ body {
   font-size: 18px;
 }
 
-.main-section p{
+.main-section p {
   margin: 20px 0;
   font-weight: 400;
 }
@@ -181,7 +180,6 @@ body {
 
 .education {
   margin-top: 15px;
-  padding-bottom: 15px;
   margin-left: 15px;
   padding: 16px;
   background-color: #fff;
@@ -198,7 +196,7 @@ body {
   font-size: 18px;
 }
 
-.education p{
+.education p {
   margin: 20px 0;
   font-weight: 400;
 }
@@ -208,21 +206,12 @@ body {
   margin-right: 5px;
 }
 
-.education {
-  margin-top: 15px;
-  padding: 0 16px;
-}
-
-.date {
-  color: #009688;
-}
-
 footer {
   width: 100%;
-background-color: #009688;
-color: #fff;
-text-align: center;
-overflow: hidden;
+  background-color: #009688;
+  color: #fff;
+  text-align: center;
+  overflow: hidden;
 }
 
 .footer-content {
