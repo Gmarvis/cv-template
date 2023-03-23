@@ -246,7 +246,6 @@ overflow: hidden;
   }
 
   .image-section h1 {
-	/* padding-top: 230px; */
     padding-left: 18px;
     font-weight: 400;
   }
@@ -263,10 +262,9 @@ overflow: hidden;
 
   .education {
     width: 89%;
-	margin-left: 1px;
+    margin-left: 1px;
     margin-top: 15px;
     padding-bottom: 15px;
-    padding: 16px;
     background-color: #fff;
     box-shadow: 0 4px 10px 0 #0003, 0 4px 20px 0 #0003;
     color: #797575;
