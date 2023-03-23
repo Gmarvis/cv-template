@@ -7,7 +7,7 @@
 
 body {
   background-color: #f0f0f0;
-  font-family: 'roboto', sans-serif;
+  font-family: "roboto", sans-serif;
   box-sizing: border-box;
 }
 
@@ -34,15 +34,14 @@ body {
 }
 
 .image-section h1 {
-	padding-top: 45vh;
+	padding-top:  45vh;
   padding-left: 18px;
   font-weight: 400;
 }
 
 .profile {
   padding: 0 15px;
-  color: #797575
-  ;
+  color: #797575;
 }
 
 .profile i {
@@ -56,7 +55,7 @@ body {
 
 .progress-bar {
   width: 100%;
-  background-color:#f0f0f0;
+  background-color: #f0f0f0;
   height: 20px;
   margin-bottom: 15px;
   border-radius: 10px;
@@ -136,7 +135,6 @@ body {
   box-shadow: 0 4px 10px 0 #0003, 0 4px 20px 0 #0003;
   color: #797575;
   overflow: hidden;
-
 }
 
 .section-container {
