@@ -220,6 +220,12 @@ footer {
   margin: 15px 0;
 }
 
+hr {
+  height: 1px;
+  background-color: #f0f0f0;
+  border: none;
+}
+
 @media screen and (max-width: 770px) {
   .box-container {
     display: flex;
