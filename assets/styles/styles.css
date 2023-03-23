@@ -220,7 +220,7 @@ footer {
   margin: 15px 0;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 770px) {
   .box-container {
     display: flex;
     flex-direction: column;
